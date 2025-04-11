@@ -1,14 +1,15 @@
 The MCP Dashboard is a React-based admin interface designed to manage pickup partners in a micro collection system. 
 It allows an admin (or MCP operator) to manage wallet balances, monitor order statistics, and handle partner onboarding or offboarding in a simple and interactive way.
 
- Features
- MCP Wallet Management
+📌 Features
+ 
+ 💼MCP Wallet Management
 
-Top-up the master MCP wallet
+  Top-up the master MCP wallet
 
-Real-time wallet balance updates
+  Real-time wallet balance updates
 
- Pickup Partner Management
+ 👤Pickup Partner Management
 
 Add new partners with roles and commission rates
 
